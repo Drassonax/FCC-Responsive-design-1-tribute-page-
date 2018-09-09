@@ -1,0 +1,31 @@
+* {
+    background-color:#b4dced;
+}
+
+#title {
+    text-align: center;
+}
+
+#img-div {
+    width: 100%;
+    padding-top: 10px;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    height: auto;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#tribute-info {
+    font-size: 18px;
+}
+
+#div-link {
+    text-align: center;
+}
